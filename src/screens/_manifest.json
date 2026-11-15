@@ -1,0 +1,46 @@
+{
+ "app": "Scooterio Scooter Rent App",
+ "start": "screen-splash-screen",
+ "screens": [
+  {
+   "slug": "screen-scooter",
+   "name": "Screen/Scooter",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 226,
+   "links": 3
+  },
+  {
+   "slug": "screen-detail",
+   "name": "Screen/Detail",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 198,
+   "links": 3
+  },
+  {
+   "slug": "screen-payment",
+   "name": "Screen/Payment",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 64,
+   "links": 3
+  },
+  {
+   "slug": "screen-splash-screen",
+   "name": "Screen/Splash Screen",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 14,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans"
+ ]
+}
